@@ -1,0 +1,191 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "q2",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "q1",
+      "request": "launch",
+      "mainClass": "q1",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p22",
+      "request": "launch",
+      "mainClass": "p22",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p21",
+      "request": "launch",
+      "mainClass": "p21",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p20",
+      "request": "launch",
+      "mainClass": "p20",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p19",
+      "request": "launch",
+      "mainClass": "p19",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p18",
+      "request": "launch",
+      "mainClass": "p18",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p17",
+      "request": "launch",
+      "mainClass": "p17"
+    },
+    {
+      "type": "java",
+      "name": "p16",
+      "request": "launch",
+      "mainClass": "p16",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p15",
+      "request": "launch",
+      "mainClass": "p15",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p14",
+      "request": "launch",
+      "mainClass": "p14",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p13",
+      "request": "launch",
+      "mainClass": "p13",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p12",
+      "request": "launch",
+      "mainClass": "p12",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p11",
+      "request": "launch",
+      "mainClass": "p11",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p10",
+      "request": "launch",
+      "mainClass": "p10",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p9",
+      "request": "launch",
+      "mainClass": "p9",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p8",
+      "request": "launch",
+      "mainClass": "p8",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p7",
+      "request": "launch",
+      "mainClass": "p7",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p6",
+      "request": "launch",
+      "mainClass": "p6",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p5",
+      "request": "launch",
+      "mainClass": "p5",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p4",
+      "request": "launch",
+      "mainClass": "p4",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p3",
+      "request": "launch",
+      "mainClass": "p3",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p2",
+      "request": "launch",
+      "mainClass": "p2",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "p1",
+      "request": "launch",
+      "mainClass": "p1",
+      "projectName": ""
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/jaina/OneDrive/Desktop/A2Z DSA",
+      "program": "c:/Users/jaina/OneDrive/Desktop/A2Z DSA/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
